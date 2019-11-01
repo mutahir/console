@@ -1,3 +1,11 @@
+# Site settings
+title: Repo Name
+email: your_email@example.com
+author: John Otander
+description: "Repo description"
+baseurl: "/console"
+url: "http://mutahir.github.io"
+
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
