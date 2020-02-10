@@ -16,4 +16,5 @@ permalink: /
 
 ```ps -ef```
 
-
+```systemctl status systemd-journald```
+```journalctl -xb```
